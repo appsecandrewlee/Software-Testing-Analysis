@@ -1,0 +1,6 @@
+Discount.py:1 at module level:
+        D100: Missing docstring in public module
+Discount.py:4 in public class `Discount`:
+        D101: Missing docstring in public class
+Discount.py:5 in public method `__init__`:
+        D107: Missing docstring in __init__

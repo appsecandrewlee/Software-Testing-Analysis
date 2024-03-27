@@ -1,0 +1,6 @@
+TransactionLine.py:1 at module level:
+        D100: Missing docstring in public module
+TransactionLine.py:4 in public class `TransactionLine`:
+        D101: Missing docstring in public class
+TransactionLine.py:7 in public method `__init__`:
+        D107: Missing docstring in __init__

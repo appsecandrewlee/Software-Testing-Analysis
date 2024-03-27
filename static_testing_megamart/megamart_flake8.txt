@@ -1,0 +1,179 @@
+megamart.py:2:49: W291 trailing whitespace
+megamart.py:7:1: F401 'TransactionLine.TransactionLine' imported but unused
+megamart.py:17:1: F401 'InsufficientFundsException.InsufficientFundsException' imported but unused
+megamart.py:20:1: E266 too many leading '#' for block comment
+megamart.py:22:1: E302 expected 2 blank lines, found 1
+megamart.py:22:40: E203 whitespace before ':'
+megamart.py:23:3: E111 indentation is not a multiple of 4
+megamart.py:24:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:24:80: E501 line too long (99 > 79 characters)
+megamart.py:25:3: E111 indentation is not a multiple of 4
+megamart.py:27:3: E111 indentation is not a multiple of 4
+megamart.py:29:1: E302 expected 2 blank lines, found 1
+megamart.py:29:80: E501 line too long (103 > 79 characters)
+megamart.py:30:3: E111 indentation is not a multiple of 4
+megamart.py:31:80: E501 line too long (94 > 79 characters)
+megamart.py:32:80: E501 line too long (105 > 79 characters)
+megamart.py:33:80: E501 line too long (137 > 79 characters)
+megamart.py:34:80: E501 line too long (152 > 79 characters)
+megamart.py:35:80: E501 line too long (113 > 79 characters)
+megamart.py:36:80: E501 line too long (163 > 79 characters)
+megamart.py:37:80: E501 line too long (148 > 79 characters)
+megamart.py:38:80: E501 line too long (135 > 79 characters)
+megamart.py:41:80: E501 line too long (115 > 79 characters)
+megamart.py:42:80: E501 line too long (123 > 79 characters)
+megamart.py:43:80: E501 line too long (103 > 79 characters)
+megamart.py:45:3: E111 indentation is not a multiple of 4
+megamart.py:46:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:47:3: E111 indentation is not a multiple of 4
+megamart.py:47:18: E701 multiple statements on one line (colon)
+megamart.py:48:1: W293 blank line contains whitespace
+megamart.py:49:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:50:3: E111 indentation is not a multiple of 4
+megamart.py:50:80: E501 line too long (93 > 79 characters)
+megamart.py:52:80: E501 line too long (102 > 79 characters)
+megamart.py:52:90: E701 multiple statements on one line (colon)
+megamart.py:56:7: E111 indentation is not a multiple of 4
+megamart.py:56:80: E501 line too long (102 > 79 characters)
+megamart.py:57:7: E111 indentation is not a multiple of 4
+megamart.py:59:7: E111 indentation is not a multiple of 4
+megamart.py:62:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:63:3: E111 indentation is not a multiple of 4
+megamart.py:65:1: E302 expected 2 blank lines, found 1
+megamart.py:65:80: E501 line too long (122 > 79 characters)
+megamart.py:66:3: E111 indentation is not a multiple of 4
+megamart.py:68:80: E501 line too long (97 > 79 characters)
+megamart.py:69:80: E501 line too long (132 > 79 characters)
+megamart.py:70:80: E501 line too long (101 > 79 characters)
+megamart.py:71:80: E501 line too long (183 > 79 characters)
+megamart.py:73:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:74:3: E111 indentation is not a multiple of 4
+megamart.py:74:40: E701 multiple statements on one line (colon)
+megamart.py:76:3: E111 indentation is not a multiple of 4
+megamart.py:78:1: E302 expected 2 blank lines, found 1
+megamart.py:78:80: E501 line too long (133 > 79 characters)
+megamart.py:79:3: E111 indentation is not a multiple of 4
+megamart.py:80:80: E501 line too long (179 > 79 characters)
+megamart.py:81:80: E501 line too long (116 > 79 characters)
+megamart.py:82:80: E501 line too long (158 > 79 characters)
+megamart.py:83:80: E501 line too long (101 > 79 characters)
+megamart.py:84:80: E501 line too long (183 > 79 characters)
+megamart.py:86:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:86:80: E501 line too long (93 > 79 characters)
+megamart.py:87:3: E111 indentation is not a multiple of 4
+megamart.py:87:69: E701 multiple statements on one line (colon)
+megamart.py:87:80: E501 line too long (87 > 79 characters)
+megamart.py:88:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:89:3: E111 indentation is not a multiple of 4
+megamart.py:89:80: E501 line too long (103 > 79 characters)
+megamart.py:89:85: E701 multiple statements on one line (colon)
+megamart.py:91:3: E111 indentation is not a multiple of 4
+megamart.py:93:3: E111 indentation is not a multiple of 4
+megamart.py:95:1: E302 expected 2 blank lines, found 1
+megamart.py:95:80: E501 line too long (89 > 79 characters)
+megamart.py:96:3: E111 indentation is not a multiple of 4
+megamart.py:97:80: E501 line too long (85 > 79 characters)
+megamart.py:98:80: E501 line too long (101 > 79 characters)
+megamart.py:99:80: E501 line too long (124 > 79 characters)
+megamart.py:100:80: E501 line too long (120 > 79 characters)
+megamart.py:101:80: E501 line too long (107 > 79 characters)
+megamart.py:102:80: E501 line too long (155 > 79 characters)
+megamart.py:103:80: E501 line too long (108 > 79 characters)
+megamart.py:104:80: E501 line too long (181 > 79 characters)
+megamart.py:105:80: E501 line too long (163 > 79 characters)
+megamart.py:106:80: E501 line too long (119 > 79 characters)
+megamart.py:108:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:109:3: E111 indentation is not a multiple of 4
+megamart.py:109:44: E701 multiple statements on one line (colon)
+megamart.py:111:3: E111 indentation is not a multiple of 4
+megamart.py:113:3: E111 indentation is not a multiple of 4
+megamart.py:117:7: E111 indentation is not a multiple of 4
+megamart.py:118:7: E111 indentation is not a multiple of 4
+megamart.py:118:36: E701 multiple statements on one line (colon)
+megamart.py:119:7: E111 indentation is not a multiple of 4
+megamart.py:119:80: E501 line too long (84 > 79 characters)
+megamart.py:120:1: W293 blank line contains whitespace
+megamart.py:122:7: E111 indentation is not a multiple of 4
+megamart.py:123:7: E111 indentation is not a multiple of 4
+megamart.py:123:69: E701 multiple statements on one line (colon)
+megamart.py:123:80: E501 line too long (87 > 79 characters)
+megamart.py:124:7: E111 indentation is not a multiple of 4
+megamart.py:126:3: E111 indentation is not a multiple of 4
+megamart.py:128:1: E302 expected 2 blank lines, found 1
+megamart.py:128:80: E501 line too long (89 > 79 characters)
+megamart.py:129:3: E111 indentation is not a multiple of 4
+megamart.py:130:80: E501 line too long (140 > 79 characters)
+megamart.py:131:80: E501 line too long (102 > 79 characters)
+megamart.py:132:80: E501 line too long (99 > 79 characters)
+megamart.py:134:3: E111 indentation is not a multiple of 4
+megamart.py:134:61: E701 multiple statements on one line (colon)
+megamart.py:135:3: E111 indentation is not a multiple of 4
+megamart.py:135:44: E701 multiple statements on one line (colon)
+megamart.py:137:3: E111 indentation is not a multiple of 4
+megamart.py:139:1: E302 expected 2 blank lines, found 1
+megamart.py:139:80: E501 line too long (97 > 79 characters)
+megamart.py:140:3: E111 indentation is not a multiple of 4
+megamart.py:141:80: E501 line too long (119 > 79 characters)
+megamart.py:142:80: E501 line too long (98 > 79 characters)
+megamart.py:144:80: E501 line too long (80 > 79 characters)
+megamart.py:145:80: E501 line too long (174 > 79 characters)
+megamart.py:148:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:149:3: E111 indentation is not a multiple of 4
+megamart.py:149:29: E701 multiple statements on one line (colon)
+megamart.py:151:3: E111 indentation is not a multiple of 4
+megamart.py:153:80: E501 line too long (131 > 79 characters)
+megamart.py:153:103: E701 multiple statements on one line (colon)
+megamart.py:158:1: W293 blank line contains whitespace
+megamart.py:159:3: E111 indentation is not a multiple of 4
+megamart.py:161:1: E302 expected 2 blank lines, found 1
+megamart.py:161:80: E501 line too long (80 > 79 characters)
+megamart.py:162:3: E111 indentation is not a multiple of 4
+megamart.py:165:80: E501 line too long (99 > 79 characters)
+megamart.py:166:80: E501 line too long (130 > 79 characters)
+megamart.py:167:80: E501 line too long (144 > 79 characters)
+megamart.py:168:80: E501 line too long (143 > 79 characters)
+megamart.py:170:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:171:3: E111 indentation is not a multiple of 4
+megamart.py:171:48: E701 multiple statements on one line (colon)
+megamart.py:173:3: E111 indentation is not a multiple of 4
+megamart.py:175:3: E111 indentation is not a multiple of 4
+megamart.py:178:3: E111 indentation is not a multiple of 4
+megamart.py:180:1: E302 expected 2 blank lines, found 1
+megamart.py:180:80: E501 line too long (147 > 79 characters)
+megamart.py:181:3: E111 indentation is not a multiple of 4
+megamart.py:183:80: E501 line too long (104 > 79 characters)
+megamart.py:184:80: E501 line too long (125 > 79 characters)
+megamart.py:185:80: E501 line too long (127 > 79 characters)
+megamart.py:186:80: E501 line too long (150 > 79 characters)
+megamart.py:187:80: E501 line too long (116 > 79 characters)
+megamart.py:188:80: E501 line too long (105 > 79 characters)
+megamart.py:189:80: E501 line too long (151 > 79 characters)
+megamart.py:190:80: E501 line too long (184 > 79 characters)
+megamart.py:191:80: E501 line too long (89 > 79 characters)
+megamart.py:193:3: E114 indentation is not a multiple of 4 (comment)
+megamart.py:193:80: E501 line too long (101 > 79 characters)
+megamart.py:194:3: E111 indentation is not a multiple of 4
+megamart.py:194:73: E701 multiple statements on one line (colon)
+megamart.py:194:80: E501 line too long (91 > 79 characters)
+megamart.py:196:3: E111 indentation is not a multiple of 4
+megamart.py:198:3: E111 indentation is not a multiple of 4
+megamart.py:200:80: E501 line too long (122 > 79 characters)
+megamart.py:200:90: E701 multiple statements on one line (colon)
+megamart.py:201:63: E701 multiple statements on one line (colon)
+megamart.py:201:80: E501 line too long (98 > 79 characters)
+megamart.py:204:29: E701 multiple statements on one line (colon)
+megamart.py:205:1: W293 blank line contains whitespace
+megamart.py:207:80: E501 line too long (115 > 79 characters)
+megamart.py:207:116: W291 trailing whitespace
+megamart.py:215:3: E111 indentation is not a multiple of 4
+megamart.py:215:80: E501 line too long (95 > 79 characters)
+megamart.py:217:3: E111 indentation is not a multiple of 4
+megamart.py:217:80: E501 line too long (96 > 79 characters)
+megamart.py:218:3: E111 indentation is not a multiple of 4
+megamart.py:219:3: E111 indentation is not a multiple of 4
+megamart.py:220:3: E111 indentation is not a multiple of 4
+megamart.py:221:3: E111 indentation is not a multiple of 4
+megamart.py:222:3: E111 indentation is not a multiple of 4
+megamart.py:222:80: E501 line too long (98 > 79 characters)
+megamart.py:224:3: E111 indentation is not a multiple of 4
+megamart.py:226:1: E266 too many leading '#' for block comment

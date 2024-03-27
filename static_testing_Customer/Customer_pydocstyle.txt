@@ -1,0 +1,6 @@
+Customer.py:1 at module level:
+        D100: Missing docstring in public module
+Customer.py:1 in public class `Customer`:
+        D101: Missing docstring in public class
+Customer.py:2 in public method `__init__`:
+        D107: Missing docstring in __init__

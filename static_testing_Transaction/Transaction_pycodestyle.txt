@@ -1,0 +1,19 @@
+Transaction.py:9:3: E111 indentation is not a multiple of 4
+Transaction.py:9:19: E261 at least two spaces before inline comment
+Transaction.py:10:3: E111 indentation is not a multiple of 4
+Transaction.py:10:19: E261 at least two spaces before inline comment
+Transaction.py:11:3: E111 indentation is not a multiple of 4
+Transaction.py:12:3: E111 indentation is not a multiple of 4
+Transaction.py:13:3: E111 indentation is not a multiple of 4
+Transaction.py:14:3: E111 indentation is not a multiple of 4
+Transaction.py:15:3: E111 indentation is not a multiple of 4
+Transaction.py:16:1: W293 blank line contains whitespace
+Transaction.py:17:3: E111 indentation is not a multiple of 4
+Transaction.py:18:3: E111 indentation is not a multiple of 4
+Transaction.py:19:3: E111 indentation is not a multiple of 4
+Transaction.py:20:3: E111 indentation is not a multiple of 4
+Transaction.py:21:3: E111 indentation is not a multiple of 4
+Transaction.py:22:3: E111 indentation is not a multiple of 4
+Transaction.py:23:3: E111 indentation is not a multiple of 4
+Transaction.py:25:3: E111 indentation is not a multiple of 4
+Transaction.py:27:3: E111 indentation is not a multiple of 4

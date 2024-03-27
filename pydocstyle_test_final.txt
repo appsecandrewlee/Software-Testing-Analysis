@@ -1,0 +1,118 @@
+testing_analysis/PurchaseLimitExceededException.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/PurchaseLimitExceededException.py:1 in public class `PurchaseLimitExceededException`:
+        D101: Missing docstring in public class
+testing_analysis/FulfilmentException.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/FulfilmentException.py:1 in public class `FulfilmentException`:
+        D101: Missing docstring in public class
+testing_analysis/Transaction.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/Transaction.py:8 in public class `Transaction`:
+        D101: Missing docstring in public class
+testing_analysis/Transaction.py:27 in public method `__init__`:
+        D107: Missing docstring in __init__
+testing_analysis/TransactionLine.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/TransactionLine.py:4 in public class `TransactionLine`:
+        D101: Missing docstring in public class
+testing_analysis/TransactionLine.py:7 in public method `__init__`:
+        D107: Missing docstring in __init__
+testing_analysis/FulfilmentType.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/FulfilmentType.py:4 in public class `FulfilmentType`:
+        D101: Missing docstring in public class
+testing_analysis/megadata.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/megamart.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/megamart.py:30 in public function `is_not_allowed_to_purchase_item`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:30 in public function `is_not_allowed_to_purchase_item`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+testing_analysis/megamart.py:66 in public function `get_item_purchase_quantity_limit`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:66 in public function `get_item_purchase_quantity_limit`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+testing_analysis/megamart.py:79 in public function `is_item_sufficiently_stocked`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:96 in public function `calculate_final_item_price`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:96 in public function `calculate_final_item_price`:
+        D401: First line should be in imperative mood; try rephrasing (found 'An')
+testing_analysis/megamart.py:129 in public function `calculate_item_savings`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:129 in public function `calculate_item_savings`:
+        D401: First line should be in imperative mood (perhaps 'Save', not 'Savings')
+testing_analysis/megamart.py:140 in public function `calculate_fulfilment_surcharge`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:140 in public function `calculate_fulfilment_surcharge`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Currently')
+testing_analysis/megamart.py:162 in public function `round_off_subtotal`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:162 in public function `round_off_subtotal`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Currently')
+testing_analysis/megamart.py:181 in public function `checkout`:
+        D205: 1 blank line required between summary line and description (found 0)
+testing_analysis/megamart.py:181 in public function `checkout`:
+        D400: First line should end with a period (not 't')
+testing_analysis/megamart.py:181 in public function `checkout`:
+        D403: First word of the first line should be properly capitalized ('If', not 'if')
+testing_analysis/PaymentMethod.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/PaymentMethod.py:4 in public class `PaymentMethod`:
+        D101: Missing docstring in public class
+testing_analysis/Discount.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/Discount.py:4 in public class `Discount`:
+        D101: Missing docstring in public class
+testing_analysis/Discount.py:5 in public method `__init__`:
+        D107: Missing docstring in __init__
+testing_analysis/Customer.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/Customer.py:1 in public class `Customer`:
+        D101: Missing docstring in public class
+testing_analysis/Customer.py:2 in public method `__init__`:
+        D107: Missing docstring in __init__
+testing_analysis/megamart_base.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/megamart_base.py:16 in public function `scan_item`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:52 in public function `list_items`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:69 in public function `link_member_account`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:86 in public function `remove_transaction_line`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:112 in public function `select_fulfilment_type`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:143 in public function `select_payment_method`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:174 in public function `tender_variable_payment`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:208 in public function `tender_exact_payment`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:224 in public function `generate_receipt`:
+        D103: Missing docstring in public function
+testing_analysis/megamart_base.py:271 in public function `terminal`:
+        D103: Missing docstring in public function
+testing_analysis/InsufficientFundsException.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/InsufficientFundsException.py:1 in public class `InsufficientFundsException`:
+        D101: Missing docstring in public class
+testing_analysis/main.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/DiscountType.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/DiscountType.py:4 in public class `DiscountType`:
+        D101: Missing docstring in public class
+testing_analysis/InsufficientStockException.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/InsufficientStockException.py:1 in public class `InsufficientStockException`:
+        D101: Missing docstring in public class
+testing_analysis/Item.py:1 at module level:
+        D100: Missing docstring in public module
+testing_analysis/Item.py:4 in public class `Item`:
+        D101: Missing docstring in public class
+testing_analysis/Item.py:5 in public method `__init__`:
+        D107: Missing docstring in __init__

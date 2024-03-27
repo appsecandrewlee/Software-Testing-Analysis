@@ -1,0 +1,13 @@
+************* Module TransactionLine
+TransactionLine.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+TransactionLine.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+TransactionLine.py:8:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+TransactionLine.py:9:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+TransactionLine.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+TransactionLine.py:1:0: C0103: Module name "TransactionLine" doesn't conform to snake_case naming style (invalid-name)
+TransactionLine.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+TransactionLine.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

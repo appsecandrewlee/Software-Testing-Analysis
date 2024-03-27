@@ -1,0 +1,4 @@
+main.py:1:16: W291 trailing whitespace
+main.py:3:1: W293 blank line contains whitespace
+main.py:5:3: E111 indentation is not a multiple of 4
+main.py:5:80: E501 line too long (80 > 79 characters)

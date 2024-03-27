@@ -1,0 +1,34 @@
+megamart.py:1 at module level:
+        D100: Missing docstring in public module
+megamart.py:30 in public function `is_not_allowed_to_purchase_item`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:30 in public function `is_not_allowed_to_purchase_item`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+megamart.py:66 in public function `get_item_purchase_quantity_limit`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:66 in public function `get_item_purchase_quantity_limit`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+megamart.py:79 in public function `is_item_sufficiently_stocked`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:96 in public function `calculate_final_item_price`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:96 in public function `calculate_final_item_price`:
+        D401: First line should be in imperative mood; try rephrasing (found 'An')
+megamart.py:129 in public function `calculate_item_savings`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:129 in public function `calculate_item_savings`:
+        D401: First line should be in imperative mood (perhaps 'Save', not 'Savings')
+megamart.py:140 in public function `calculate_fulfilment_surcharge`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:140 in public function `calculate_fulfilment_surcharge`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Currently')
+megamart.py:162 in public function `round_off_subtotal`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:162 in public function `round_off_subtotal`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Currently')
+megamart.py:181 in public function `checkout`:
+        D205: 1 blank line required between summary line and description (found 0)
+megamart.py:181 in public function `checkout`:
+        D400: First line should end with a period (not 't')
+megamart.py:181 in public function `checkout`:
+        D403: First word of the first line should be properly capitalized ('If', not 'if')

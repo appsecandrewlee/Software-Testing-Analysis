@@ -1,0 +1,9 @@
+************* Module main
+main.py:1:15: C0303: Trailing whitespace (trailing-whitespace)
+main.py:3:0: C0303: Trailing whitespace (trailing-whitespace)
+main.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+main.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

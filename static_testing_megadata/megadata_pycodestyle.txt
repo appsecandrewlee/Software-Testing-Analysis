@@ -1,0 +1,14 @@
+megadata.py:7:80: E501 line too long (87 > 79 characters)
+megadata.py:11:80: E501 line too long (84 > 79 characters)
+megadata.py:29:1: E266 too many leading '#' for block comment
+megadata.py:32:80: E501 line too long (159 > 79 characters)
+megadata.py:35:80: E501 line too long (89 > 79 characters)
+megadata.py:38:54: E201 whitespace after '{'
+megadata.py:38:80: E501 line too long (91 > 79 characters)
+megadata.py:38:90: E202 whitespace before '}'
+megadata.py:47:35: E201 whitespace after '{'
+megadata.py:47:80: E501 line too long (100 > 79 characters)
+megadata.py:47:99: E202 whitespace before '}'
+megadata.py:56:35: E201 whitespace after '{'
+megadata.py:56:80: E501 line too long (90 > 79 characters)
+megadata.py:56:89: E202 whitespace before '}'

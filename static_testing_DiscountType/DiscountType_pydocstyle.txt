@@ -1,0 +1,4 @@
+DiscountType.py:1 at module level:
+        D100: Missing docstring in public module
+DiscountType.py:4 in public class `DiscountType`:
+        D101: Missing docstring in public class

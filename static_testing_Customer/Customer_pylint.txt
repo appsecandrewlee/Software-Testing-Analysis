@@ -1,0 +1,17 @@
+************* Module Customer
+Customer.py:2:0: C0301: Line too long (124/100) (line-too-long)
+Customer.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Customer.py:3:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Customer.py:4:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Customer.py:5:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Customer.py:6:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Customer.py:7:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Customer.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Customer.py:1:0: C0103: Module name "Customer" doesn't conform to snake_case naming style (invalid-name)
+Customer.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+Customer.py:2:2: R0913: Too many arguments (6/5) (too-many-arguments)
+Customer.py:1:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

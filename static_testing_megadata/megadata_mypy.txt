@@ -1,0 +1,3 @@
+megadata.py:19: error: Argument 5 to "Customer" has incompatible type "None"; expected "float"  [arg-type]
+megadata.py:21: error: Argument 3 to "Customer" has incompatible type "None"; expected "str"  [arg-type]
+Found 2 errors in 1 file (checked 1 source file)

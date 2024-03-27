@@ -1,0 +1,9 @@
+************* Module RestrictedItemException
+RestrictedItemException.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+RestrictedItemException.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+RestrictedItemException.py:1:0: C0103: Module name "RestrictedItemException" doesn't conform to snake_case naming style (invalid-name)
+RestrictedItemException.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

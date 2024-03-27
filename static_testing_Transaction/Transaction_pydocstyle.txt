@@ -1,0 +1,6 @@
+Transaction.py:1 at module level:
+        D100: Missing docstring in public module
+Transaction.py:8 in public class `Transaction`:
+        D101: Missing docstring in public class
+Transaction.py:27 in public method `__init__`:
+        D107: Missing docstring in __init__

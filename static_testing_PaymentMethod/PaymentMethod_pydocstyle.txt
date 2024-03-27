@@ -1,0 +1,4 @@
+PaymentMethod.py:1 at module level:
+        D100: Missing docstring in public module
+PaymentMethod.py:4 in public class `PaymentMethod`:
+        D101: Missing docstring in public class

@@ -1,0 +1,2 @@
+DiscountType.py:5:3: E111 indentation is not a multiple of 4
+DiscountType.py:6:3: E111 indentation is not a multiple of 4

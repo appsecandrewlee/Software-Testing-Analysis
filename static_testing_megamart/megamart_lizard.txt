@@ -1,0 +1,24 @@
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+       5      2     37      1       6 _get_eighteenth_birthday@22-27@megamart.py
+      27     10    131      3      35 is_not_allowed_to_purchase_item@29-63@megamart.py
+      10      4     63      5      12 get_item_purchase_quantity_limit@65-76@megamart.py
+      13      8    100      6      16 is_item_sufficiently_stocked@78-93@megamart.py
+      26     10    143      3      32 calculate_final_item_price@95-126@megamart.py
+       9      4     55      2      10 calculate_item_savings@128-137@megamart.py
+      16      6     77      2      21 calculate_fulfilment_surcharge@139-159@megamart.py
+      14      4     67      2      18 round_off_subtotal@161-178@megamart.py
+      36     10    302      7      45 checkout@180-224@megamart.py
+1 file analyzed.
+==============================================================
+NLOC    Avg.NLOC  AvgCCN  Avg.token  function_cnt    file
+--------------------------------------------------------------
+    172      17.3     6.4      108.3         9     megamart.py
+
+===============================================================================================================
+No thresholds exceeded (cyclomatic_complexity > 15 or length > 1000 or nloc > 1000000 or parameter_count > 100)
+==========================================================================================
+Total nloc   Avg.NLOC  AvgCCN  Avg.token   Fun Cnt  Warning cnt   Fun Rt   nloc Rt
+------------------------------------------------------------------------------------------
+       172      17.3     6.4      108.3        9            0      0.00    0.00

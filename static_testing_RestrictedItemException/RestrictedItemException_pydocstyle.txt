@@ -1,0 +1,4 @@
+RestrictedItemException.py:1 at module level:
+        D100: Missing docstring in public module
+RestrictedItemException.py:1 in public class `RestrictedItemException`:
+        D101: Missing docstring in public class

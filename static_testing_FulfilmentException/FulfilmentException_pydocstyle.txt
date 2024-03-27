@@ -1,0 +1,4 @@
+FulfilmentException.py:1 at module level:
+        D100: Missing docstring in public module
+FulfilmentException.py:1 in public class `FulfilmentException`:
+        D101: Missing docstring in public class

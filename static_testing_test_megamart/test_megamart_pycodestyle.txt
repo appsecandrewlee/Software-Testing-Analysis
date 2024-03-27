@@ -1,0 +1,432 @@
+test_megamart.py:4:80: E501 line too long (120 > 79 characters)
+test_megamart.py:13:3: E111 indentation is not a multiple of 4
+test_megamart.py:14:80: E501 line too long (102 > 79 characters)
+test_megamart.py:31:80: E501 line too long (87 > 79 characters)
+test_megamart.py:34:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:36:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:36:3: E266 too many leading '#' for block comment
+test_megamart.py:38:3: E111 indentation is not a multiple of 4
+test_megamart.py:43:80: E501 line too long (85 > 79 characters)
+test_megamart.py:44:80: E501 line too long (115 > 79 characters)
+test_megamart.py:45:1: W293 blank line contains whitespace
+test_megamart.py:46:3: E111 indentation is not a multiple of 4
+test_megamart.py:51:80: E501 line too long (85 > 79 characters)
+test_megamart.py:52:80: E501 line too long (115 > 79 characters)
+test_megamart.py:54:3: E111 indentation is not a multiple of 4
+test_megamart.py:59:80: E501 line too long (85 > 79 characters)
+test_megamart.py:60:80: E501 line too long (115 > 79 characters)
+test_megamart.py:61:1: W293 blank line contains whitespace
+test_megamart.py:62:3: E111 indentation is not a multiple of 4
+test_megamart.py:67:80: E501 line too long (85 > 79 characters)
+test_megamart.py:68:80: E501 line too long (119 > 79 characters)
+test_megamart.py:70:3: E111 indentation is not a multiple of 4
+test_megamart.py:75:80: E501 line too long (85 > 79 characters)
+test_megamart.py:76:80: E501 line too long (127 > 79 characters)
+test_megamart.py:77:1: W293 blank line contains whitespace
+test_megamart.py:78:3: E111 indentation is not a multiple of 4
+test_megamart.py:83:80: E501 line too long (85 > 79 characters)
+test_megamart.py:84:80: E501 line too long (139 > 79 characters)
+test_megamart.py:86:3: E111 indentation is not a multiple of 4
+test_megamart.py:91:80: E501 line too long (86 > 79 characters)
+test_megamart.py:92:21: E128 continuation line under-indented for visual indent
+test_megamart.py:92:80: E501 line too long (120 > 79 characters)
+test_megamart.py:94:3: E111 indentation is not a multiple of 4
+test_megamart.py:99:80: E501 line too long (86 > 79 characters)
+test_megamart.py:100:80: E501 line too long (114 > 79 characters)
+test_megamart.py:102:3: E111 indentation is not a multiple of 4
+test_megamart.py:106:80: E501 line too long (93 > 79 characters)
+test_megamart.py:107:7: E111 indentation is not a multiple of 4
+test_megamart.py:108:1: W293 blank line contains whitespace
+test_megamart.py:109:3: E111 indentation is not a multiple of 4
+test_megamart.py:114:80: E501 line too long (105 > 79 characters)
+test_megamart.py:115:7: E111 indentation is not a multiple of 4
+test_megamart.py:117:3: E111 indentation is not a multiple of 4
+test_megamart.py:122:80: E501 line too long (105 > 79 characters)
+test_megamart.py:123:7: E111 indentation is not a multiple of 4
+test_megamart.py:125:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:125:3: E266 too many leading '#' for block comment
+test_megamart.py:127:3: E111 indentation is not a multiple of 4
+test_megamart.py:131:19: E201 whitespace after '{'
+test_megamart.py:131:23: E203 whitespace before ':'
+test_megamart.py:131:49: E203 whitespace before ':'
+test_megamart.py:131:69: E202 whitespace before '}'
+test_megamart.py:132:80: E501 line too long (89 > 79 characters)
+test_megamart.py:133:80: E501 line too long (103 > 79 characters)
+test_megamart.py:135:3: E111 indentation is not a multiple of 4
+test_megamart.py:138:19: E201 whitespace after '{'
+test_megamart.py:138:23: E203 whitespace before ':'
+test_megamart.py:138:45: E203 whitespace before ':'
+test_megamart.py:138:65: E202 whitespace before '}'
+test_megamart.py:139:80: E501 line too long (83 > 79 characters)
+test_megamart.py:140:80: E501 line too long (83 > 79 characters)
+test_megamart.py:142:3: E111 indentation is not a multiple of 4
+test_megamart.py:143:10: E225 missing whitespace around operator
+test_megamart.py:145:50: E261 at least two spaces before inline comment
+test_megamart.py:146:19: E201 whitespace after '{'
+test_megamart.py:146:23: E203 whitespace before ':'
+test_megamart.py:146:45: E203 whitespace before ':'
+test_megamart.py:146:65: E202 whitespace before '}'
+test_megamart.py:147:80: E501 line too long (83 > 79 characters)
+test_megamart.py:150:3: E111 indentation is not a multiple of 4
+test_megamart.py:151:20: E261 at least two spaces before inline comment
+test_megamart.py:153:19: E201 whitespace after '{'
+test_megamart.py:153:23: E203 whitespace before ':'
+test_megamart.py:153:42: E202 whitespace before '}'
+test_megamart.py:154:80: E501 line too long (95 > 79 characters)
+test_megamart.py:155:7: E111 indentation is not a multiple of 4
+test_megamart.py:157:3: E111 indentation is not a multiple of 4
+test_megamart.py:158:80: E501 line too long (81 > 79 characters)
+test_megamart.py:160:80: E501 line too long (107 > 79 characters)
+test_megamart.py:161:7: E111 indentation is not a multiple of 4
+test_megamart.py:163:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:163:3: E266 too many leading '#' for block comment
+test_megamart.py:165:3: E111 indentation is not a multiple of 4
+test_megamart.py:166:48: E261 at least two spaces before inline comment
+test_megamart.py:170:19: E201 whitespace after '{'
+test_megamart.py:170:23: E203 whitespace before ':'
+test_megamart.py:170:51: E203 whitespace before ':'
+test_megamart.py:170:67: E202 whitespace before '}'
+test_megamart.py:171:80: E501 line too long (82 > 79 characters)
+test_megamart.py:172:80: E501 line too long (109 > 79 characters)
+test_megamart.py:174:3: E111 indentation is not a multiple of 4
+test_megamart.py:175:48: E261 at least two spaces before inline comment
+test_megamart.py:179:19: E201 whitespace after '{'
+test_megamart.py:179:23: E203 whitespace before ':'
+test_megamart.py:179:51: E203 whitespace before ':'
+test_megamart.py:179:67: E202 whitespace before '}'
+test_megamart.py:180:80: E501 line too long (83 > 79 characters)
+test_megamart.py:181:21: E128 continuation line under-indented for visual indent
+test_megamart.py:181:80: E501 line too long (113 > 79 characters)
+test_megamart.py:183:3: E111 indentation is not a multiple of 4
+test_megamart.py:186:19: E201 whitespace after '{'
+test_megamart.py:186:23: E203 whitespace before ':'
+test_megamart.py:186:43: E202 whitespace before '}'
+test_megamart.py:187:80: E501 line too long (83 > 79 characters)
+test_megamart.py:188:80: E501 line too long (92 > 79 characters)
+test_megamart.py:189:1: W293 blank line contains whitespace
+test_megamart.py:190:3: E111 indentation is not a multiple of 4
+test_megamart.py:191:20: E261 at least two spaces before inline comment
+test_megamart.py:192:48: W291 trailing whitespace
+test_megamart.py:195:19: E201 whitespace after '{'
+test_megamart.py:195:23: E203 whitespace before ':'
+test_megamart.py:195:48: E203 whitespace before ':'
+test_megamart.py:195:64: E202 whitespace before '}'
+test_megamart.py:196:80: E501 line too long (102 > 79 characters)
+test_megamart.py:197:7: E111 indentation is not a multiple of 4
+test_megamart.py:199:3: E111 indentation is not a multiple of 4
+test_megamart.py:200:48: W291 trailing whitespace
+test_megamart.py:203:19: E201 whitespace after '{'
+test_megamart.py:203:23: E203 whitespace before ':'
+test_megamart.py:203:48: E203 whitespace before ':'
+test_megamart.py:203:64: E202 whitespace before '}'
+test_megamart.py:204:80: E501 line too long (99 > 79 characters)
+test_megamart.py:205:7: E111 indentation is not a multiple of 4
+test_megamart.py:207:3: E111 indentation is not a multiple of 4
+test_megamart.py:208:48: W291 trailing whitespace
+test_megamart.py:211:80: E501 line too long (101 > 79 characters)
+test_megamart.py:212:7: E111 indentation is not a multiple of 4
+test_megamart.py:214:3: E111 indentation is not a multiple of 4
+test_megamart.py:215:48: E261 at least two spaces before inline comment
+test_megamart.py:216:49: W291 trailing whitespace
+test_megamart.py:218:19: E201 whitespace after '{'
+test_megamart.py:218:23: E203 whitespace before ':'
+test_megamart.py:218:48: E203 whitespace before ':'
+test_megamart.py:218:64: E202 whitespace before '}'
+test_megamart.py:219:80: E501 line too long (88 > 79 characters)
+test_megamart.py:220:7: E111 indentation is not a multiple of 4
+test_megamart.py:222:3: E111 indentation is not a multiple of 4
+test_megamart.py:223:48: E261 at least two spaces before inline comment
+test_megamart.py:224:49: W291 trailing whitespace
+test_megamart.py:226:19: E201 whitespace after '{'
+test_megamart.py:226:23: E203 whitespace before ':'
+test_megamart.py:226:48: E203 whitespace before ':'
+test_megamart.py:226:64: E202 whitespace before '}'
+test_megamart.py:227:80: E501 line too long (118 > 79 characters)
+test_megamart.py:228:7: E111 indentation is not a multiple of 4
+test_megamart.py:230:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:230:3: E266 too many leading '#' for block comment
+test_megamart.py:232:3: E111 indentation is not a multiple of 4
+test_megamart.py:233:80: E501 line too long (80 > 79 characters)
+test_megamart.py:234:23: E201 whitespace after '{'
+test_megamart.py:234:27: E203 whitespace before ':'
+test_megamart.py:234:75: E202 whitespace before '}'
+test_megamart.py:235:80: E501 line too long (93 > 79 characters)
+test_megamart.py:236:22: E128 continuation line under-indented for visual indent
+test_megamart.py:236:80: E501 line too long (84 > 79 characters)
+test_megamart.py:238:3: E111 indentation is not a multiple of 4
+test_megamart.py:240:23: E201 whitespace after '{'
+test_megamart.py:240:27: E203 whitespace before ':'
+test_megamart.py:240:68: E202 whitespace before '}'
+test_megamart.py:241:80: E501 line too long (94 > 79 characters)
+test_megamart.py:242:22: E128 continuation line under-indented for visual indent
+test_megamart.py:244:3: E111 indentation is not a multiple of 4
+test_megamart.py:247:23: E201 whitespace after '{'
+test_megamart.py:247:27: E203 whitespace before ':'
+test_megamart.py:247:80: E203 whitespace before ':'
+test_megamart.py:247:80: E501 line too long (122 > 79 characters)
+test_megamart.py:247:121: E202 whitespace before '}'
+test_megamart.py:248:80: E501 line too long (95 > 79 characters)
+test_megamart.py:249:22: E128 continuation line under-indented for visual indent
+test_megamart.py:249:80: E501 line too long (82 > 79 characters)
+test_megamart.py:251:3: E111 indentation is not a multiple of 4
+test_megamart.py:252:80: E501 line too long (80 > 79 characters)
+test_megamart.py:254:80: E501 line too long (94 > 79 characters)
+test_megamart.py:255:7: E111 indentation is not a multiple of 4
+test_megamart.py:257:3: E111 indentation is not a multiple of 4
+test_megamart.py:259:23: E201 whitespace after '{'
+test_megamart.py:259:27: E203 whitespace before ':'
+test_megamart.py:259:75: E202 whitespace before '}'
+test_megamart.py:260:80: E501 line too long (84 > 79 characters)
+test_megamart.py:261:7: E111 indentation is not a multiple of 4
+test_megamart.py:263:3: E111 indentation is not a multiple of 4
+test_megamart.py:264:80: E501 line too long (80 > 79 characters)
+test_megamart.py:265:23: E201 whitespace after '{'
+test_megamart.py:265:27: E203 whitespace before ':'
+test_megamart.py:265:76: E202 whitespace before '}'
+test_megamart.py:266:80: E501 line too long (115 > 79 characters)
+test_megamart.py:267:7: E111 indentation is not a multiple of 4
+test_megamart.py:269:3: E111 indentation is not a multiple of 4
+test_megamart.py:270:80: E501 line too long (80 > 79 characters)
+test_megamart.py:271:23: E201 whitespace after '{'
+test_megamart.py:271:27: E203 whitespace before ':'
+test_megamart.py:271:74: E202 whitespace before '}'
+test_megamart.py:272:80: E501 line too long (112 > 79 characters)
+test_megamart.py:273:7: E111 indentation is not a multiple of 4
+test_megamart.py:275:3: E111 indentation is not a multiple of 4
+test_megamart.py:277:23: E201 whitespace after '{'
+test_megamart.py:277:27: E203 whitespace before ':'
+test_megamart.py:277:69: E202 whitespace before '}'
+test_megamart.py:278:80: E501 line too long (127 > 79 characters)
+test_megamart.py:279:7: E111 indentation is not a multiple of 4
+test_megamart.py:281:3: E111 indentation is not a multiple of 4
+test_megamart.py:283:23: E201 whitespace after '{'
+test_megamart.py:283:27: E203 whitespace before ':'
+test_megamart.py:283:66: E202 whitespace before '}'
+test_megamart.py:284:80: E501 line too long (133 > 79 characters)
+test_megamart.py:285:7: E111 indentation is not a multiple of 4
+test_megamart.py:287:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:287:3: E266 too many leading '#' for block comment
+test_megamart.py:289:3: E111 indentation is not a multiple of 4
+test_megamart.py:292:80: E501 line too long (97 > 79 characters)
+test_megamart.py:293:22: E128 continuation line under-indented for visual indent
+test_megamart.py:293:80: E501 line too long (99 > 79 characters)
+test_megamart.py:294:1: W293 blank line contains whitespace
+test_megamart.py:295:3: E111 indentation is not a multiple of 4
+test_megamart.py:298:80: E501 line too long (103 > 79 characters)
+test_megamart.py:299:7: E111 indentation is not a multiple of 4
+test_megamart.py:301:3: E111 indentation is not a multiple of 4
+test_megamart.py:304:80: E501 line too long (100 > 79 characters)
+test_megamart.py:305:7: E111 indentation is not a multiple of 4
+test_megamart.py:307:3: E111 indentation is not a multiple of 4
+test_megamart.py:310:80: E501 line too long (107 > 79 characters)
+test_megamart.py:311:7: E111 indentation is not a multiple of 4
+test_megamart.py:313:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:313:3: E266 too many leading '#' for block comment
+test_megamart.py:315:3: E111 indentation is not a multiple of 4
+test_megamart.py:319:80: E501 line too long (85 > 79 characters)
+test_megamart.py:320:22: E128 continuation line under-indented for visual indent
+test_megamart.py:320:80: E501 line too long (97 > 79 characters)
+test_megamart.py:321:1: W293 blank line contains whitespace
+test_megamart.py:322:3: E111 indentation is not a multiple of 4
+test_megamart.py:326:80: E501 line too long (85 > 79 characters)
+test_megamart.py:327:22: E128 continuation line under-indented for visual indent
+test_megamart.py:327:80: E501 line too long (88 > 79 characters)
+test_megamart.py:329:3: E111 indentation is not a multiple of 4
+test_megamart.py:333:80: E501 line too long (88 > 79 characters)
+test_megamart.py:334:22: E128 continuation line under-indented for visual indent
+test_megamart.py:334:80: E501 line too long (114 > 79 characters)
+test_megamart.py:336:3: E111 indentation is not a multiple of 4
+test_megamart.py:340:80: E501 line too long (85 > 79 characters)
+test_megamart.py:341:22: E128 continuation line under-indented for visual indent
+test_megamart.py:343:3: E111 indentation is not a multiple of 4
+test_megamart.py:348:7: E111 indentation is not a multiple of 4
+test_megamart.py:350:3: E111 indentation is not a multiple of 4
+test_megamart.py:352:20: W291 trailing whitespace
+test_megamart.py:355:7: E111 indentation is not a multiple of 4
+test_megamart.py:357:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:357:3: E266 too many leading '#' for block comment
+test_megamart.py:359:3: E111 indentation is not a multiple of 4
+test_megamart.py:365:3: E111 indentation is not a multiple of 4
+test_megamart.py:371:3: E111 indentation is not a multiple of 4
+test_megamart.py:376:7: E111 indentation is not a multiple of 4
+test_megamart.py:381:3: E111 indentation is not a multiple of 4
+test_megamart.py:386:7: E111 indentation is not a multiple of 4
+test_megamart.py:391:3: E111 indentation is not a multiple of 4
+test_megamart.py:396:7: E111 indentation is not a multiple of 4
+test_megamart.py:401:3: E111 indentation is not a multiple of 4
+test_megamart.py:406:7: E111 indentation is not a multiple of 4
+test_megamart.py:411:3: E111 indentation is not a multiple of 4
+test_megamart.py:414:80: E501 line too long (90 > 79 characters)
+test_megamart.py:415:7: E111 indentation is not a multiple of 4
+test_megamart.py:417:3: E111 indentation is not a multiple of 4
+test_megamart.py:420:80: E501 line too long (88 > 79 characters)
+test_megamart.py:421:7: E111 indentation is not a multiple of 4
+test_megamart.py:423:3: E114 indentation is not a multiple of 4 (comment)
+test_megamart.py:423:3: E266 too many leading '#' for block comment
+test_megamart.py:425:3: E111 indentation is not a multiple of 4
+test_megamart.py:430:80: E501 line too long (80 > 79 characters)
+test_megamart.py:432:19: E201 whitespace after '{'
+test_megamart.py:432:23: E203 whitespace before ':'
+test_megamart.py:432:42: E202 whitespace before '}'
+test_megamart.py:433:23: E201 whitespace after '{'
+test_megamart.py:433:24: E202 whitespace before '}'
+test_megamart.py:436:49: W291 trailing whitespace
+test_megamart.py:437:80: E501 line too long (93 > 79 characters)
+test_megamart.py:439:3: E111 indentation is not a multiple of 4
+test_megamart.py:441:80: E501 line too long (83 > 79 characters)
+test_megamart.py:450:19: E201 whitespace after '{'
+test_megamart.py:450:23: E203 whitespace before ':'
+test_megamart.py:450:46: E203 whitespace before ':'
+test_megamart.py:450:65: E202 whitespace before '}'
+test_megamart.py:451:23: E201 whitespace after '{'
+test_megamart.py:451:27: E203 whitespace before ':'
+test_megamart.py:451:72: E202 whitespace before '}'
+test_megamart.py:456:53: W291 trailing whitespace
+test_megamart.py:457:49: W291 trailing whitespace
+test_megamart.py:458:38: W291 trailing whitespace
+test_megamart.py:464:7: E111 indentation is not a multiple of 4
+test_megamart.py:465:80: E501 line too long (85 > 79 characters)
+test_megamart.py:466:26: E128 continuation line under-indented for visual indent
+test_megamart.py:466:80: E501 line too long (144 > 79 characters)
+test_megamart.py:468:3: E111 indentation is not a multiple of 4
+test_megamart.py:475:19: E201 whitespace after '{'
+test_megamart.py:475:23: E203 whitespace before ':'
+test_megamart.py:475:42: E202 whitespace before '}'
+test_megamart.py:476:23: E201 whitespace after '{'
+test_megamart.py:478:80: E501 line too long (149 > 79 characters)
+test_megamart.py:479:7: E111 indentation is not a multiple of 4
+test_megamart.py:481:3: E111 indentation is not a multiple of 4
+test_megamart.py:488:19: E201 whitespace after '{'
+test_megamart.py:488:23: E203 whitespace before ':'
+test_megamart.py:488:41: E202 whitespace before '}'
+test_megamart.py:489:23: E201 whitespace after '{'
+test_megamart.py:491:80: E501 line too long (135 > 79 characters)
+test_megamart.py:492:7: E111 indentation is not a multiple of 4
+test_megamart.py:494:3: E111 indentation is not a multiple of 4
+test_megamart.py:501:19: E201 whitespace after '{'
+test_megamart.py:501:23: E203 whitespace before ':'
+test_megamart.py:501:39: E202 whitespace before '}'
+test_megamart.py:502:23: E201 whitespace after '{'
+test_megamart.py:504:80: E501 line too long (143 > 79 characters)
+test_megamart.py:505:7: E111 indentation is not a multiple of 4
+test_megamart.py:507:3: E111 indentation is not a multiple of 4
+test_megamart.py:514:19: E201 whitespace after '{'
+test_megamart.py:514:23: E203 whitespace before ':'
+test_megamart.py:514:39: E202 whitespace before '}'
+test_megamart.py:515:23: E201 whitespace after '{'
+test_megamart.py:515:27: E203 whitespace before ':'
+test_megamart.py:515:68: E202 whitespace before '}'
+test_megamart.py:519:80: E501 line too long (85 > 79 characters)
+test_megamart.py:521:3: E111 indentation is not a multiple of 4
+test_megamart.py:528:19: E201 whitespace after '{'
+test_megamart.py:528:23: E203 whitespace before ':'
+test_megamart.py:528:39: E202 whitespace before '}'
+test_megamart.py:529:23: E201 whitespace after '{'
+test_megamart.py:529:27: E203 whitespace before ':'
+test_megamart.py:529:72: E202 whitespace before '}'
+test_megamart.py:532:50: W291 trailing whitespace
+test_megamart.py:533:80: E501 line too long (91 > 79 characters)
+test_megamart.py:535:3: E111 indentation is not a multiple of 4
+test_megamart.py:542:19: E201 whitespace after '{'
+test_megamart.py:542:23: E203 whitespace before ':'
+test_megamart.py:542:39: E202 whitespace before '}'
+test_megamart.py:543:23: E201 whitespace after '{'
+test_megamart.py:549:3: E111 indentation is not a multiple of 4
+test_megamart.py:556:19: E201 whitespace after '{'
+test_megamart.py:556:23: E203 whitespace before ':'
+test_megamart.py:556:39: E202 whitespace before '}'
+test_megamart.py:557:23: E201 whitespace after '{'
+test_megamart.py:561:22: E128 continuation line under-indented for visual indent
+test_megamart.py:563:19: E128 continuation line under-indented for visual indent
+test_megamart.py:565:3: E111 indentation is not a multiple of 4
+test_megamart.py:568:19: E201 whitespace after '{'
+test_megamart.py:568:23: E203 whitespace before ':'
+test_megamart.py:568:39: E202 whitespace before '}'
+test_megamart.py:569:23: E201 whitespace after '{'
+test_megamart.py:571:80: E501 line too long (93 > 79 characters)
+test_megamart.py:572:7: E111 indentation is not a multiple of 4
+test_megamart.py:574:3: E111 indentation is not a multiple of 4
+test_megamart.py:582:23: E201 whitespace after '{'
+test_megamart.py:584:80: E501 line too long (98 > 79 characters)
+test_megamart.py:585:7: E111 indentation is not a multiple of 4
+test_megamart.py:587:3: E111 indentation is not a multiple of 4
+test_megamart.py:594:19: E201 whitespace after '{'
+test_megamart.py:594:23: E203 whitespace before ':'
+test_megamart.py:594:39: E202 whitespace before '}'
+test_megamart.py:597:80: E501 line too long (102 > 79 characters)
+test_megamart.py:598:7: E111 indentation is not a multiple of 4
+test_megamart.py:600:3: E111 indentation is not a multiple of 4
+test_megamart.py:602:55: W291 trailing whitespace
+test_megamart.py:605:38: E201 whitespace after '['
+test_megamart.py:605:80: E501 line too long (119 > 79 characters)
+test_megamart.py:605:118: E202 whitespace before ']'
+test_megamart.py:608:19: E201 whitespace after '{'
+test_megamart.py:608:23: E203 whitespace before ':'
+test_megamart.py:608:48: E203 whitespace before ':'
+test_megamart.py:608:70: E203 whitespace before ':'
+test_megamart.py:608:80: E501 line too long (93 > 79 characters)
+test_megamart.py:608:92: E202 whitespace before '}'
+test_megamart.py:609:23: E201 whitespace after '{'
+test_megamart.py:609:27: E203 whitespace before ':'
+test_megamart.py:609:77: E203 whitespace before ':'
+test_megamart.py:609:80: E501 line too long (118 > 79 characters)
+test_megamart.py:609:117: E202 whitespace before '}'
+test_megamart.py:611:50: W291 trailing whitespace
+test_megamart.py:612:80: E501 line too long (103 > 79 characters)
+test_megamart.py:614:80: E501 line too long (103 > 79 characters)
+test_megamart.py:615:1: W293 blank line contains whitespace
+test_megamart.py:617:3: E111 indentation is not a multiple of 4
+test_megamart.py:617:3: E303 too many blank lines (2)
+test_megamart.py:619:55: W291 trailing whitespace
+test_megamart.py:623:38: E201 whitespace after '['
+test_megamart.py:623:80: E501 line too long (119 > 79 characters)
+test_megamart.py:623:118: E202 whitespace before ']'
+test_megamart.py:626:19: E201 whitespace after '{'
+test_megamart.py:626:23: E203 whitespace before ':'
+test_megamart.py:626:48: E203 whitespace before ':'
+test_megamart.py:626:70: E203 whitespace before ':'
+test_megamart.py:626:80: E501 line too long (93 > 79 characters)
+test_megamart.py:626:92: E202 whitespace before '}'
+test_megamart.py:627:23: E201 whitespace after '{'
+test_megamart.py:627:27: E203 whitespace before ':'
+test_megamart.py:627:77: E203 whitespace before ':'
+test_megamart.py:627:80: E501 line too long (118 > 79 characters)
+test_megamart.py:627:117: E202 whitespace before '}'
+test_megamart.py:629:50: W291 trailing whitespace
+test_megamart.py:630:80: E501 line too long (104 > 79 characters)
+test_megamart.py:631:1: W293 blank line contains whitespace
+test_megamart.py:632:3: E111 indentation is not a multiple of 4
+test_megamart.py:634:55: W291 trailing whitespace
+test_megamart.py:637:38: E201 whitespace after '['
+test_megamart.py:637:80: E501 line too long (119 > 79 characters)
+test_megamart.py:637:118: E202 whitespace before ']'
+test_megamart.py:640:19: E201 whitespace after '{'
+test_megamart.py:640:23: E203 whitespace before ':'
+test_megamart.py:640:48: E203 whitespace before ':'
+test_megamart.py:640:70: E203 whitespace before ':'
+test_megamart.py:640:80: E501 line too long (93 > 79 characters)
+test_megamart.py:640:92: E202 whitespace before '}'
+test_megamart.py:641:23: E201 whitespace after '{'
+test_megamart.py:641:27: E203 whitespace before ':'
+test_megamart.py:641:77: E203 whitespace before ':'
+test_megamart.py:641:80: E501 line too long (118 > 79 characters)
+test_megamart.py:641:117: E202 whitespace before '}'
+test_megamart.py:642:80: E501 line too long (125 > 79 characters)
+test_megamart.py:645:3: E111 indentation is not a multiple of 4
+test_megamart.py:647:55: W291 trailing whitespace
+test_megamart.py:650:38: E201 whitespace after '['
+test_megamart.py:650:80: E501 line too long (120 > 79 characters)
+test_megamart.py:650:119: E202 whitespace before ']'
+test_megamart.py:653:19: E201 whitespace after '{'
+test_megamart.py:653:23: E203 whitespace before ':'
+test_megamart.py:653:48: E203 whitespace before ':'
+test_megamart.py:653:70: E203 whitespace before ':'
+test_megamart.py:653:80: E501 line too long (93 > 79 characters)
+test_megamart.py:653:92: E202 whitespace before '}'
+test_megamart.py:654:23: E201 whitespace after '{'
+test_megamart.py:654:27: E203 whitespace before ':'
+test_megamart.py:654:77: E203 whitespace before ':'
+test_megamart.py:654:80: E501 line too long (118 > 79 characters)
+test_megamart.py:654:117: E202 whitespace before '}'
+test_megamart.py:655:80: E501 line too long (126 > 79 characters)
+test_megamart.py:658:1: E305 expected 2 blank lines after class or function definition, found 1

@@ -1,0 +1,16 @@
+Transaction.py:9: error: Incompatible types in assignment (expression has type "None", variable has type "str")  [assignment]
+Transaction.py:10: error: Incompatible types in assignment (expression has type "None", variable has type "str")  [assignment]
+megamart.py:2: error: Library stubs not installed for "dateutil.relativedelta"  [import-untyped]
+megamart.py:2: note: Hint: "python3 -m pip install types-python-dateutil"
+megamart.py:2: note: (or run "mypy --install-types" to install all missing stub packages)
+megamart.py:2: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+megamart.py:200: error: Argument 2 to "is_not_allowed_to_purchase_item" has incompatible type "Customer | None"; expected "Customer"  [arg-type]
+megamart.py:207: error: Unsupported operand types for - ("None" and "int")  [operator]
+megamart.py:207: note: Left operand is of type "int | None"
+megamart.py:210: error: Incompatible types in assignment (expression has type "float", variable has type "int")  [assignment]
+megamart.py:212: error: Incompatible types in assignment (expression has type "float", variable has type "int")  [assignment]
+megamart.py:215: error: Incompatible types in assignment (expression has type "float", variable has type "int")  [assignment]
+megamart.py:215: error: Argument 1 to "calculate_fulfilment_surcharge" has incompatible type "FulfilmentType | None"; expected "FulfilmentType"  [arg-type]
+megamart.py:215: error: Argument 2 to "calculate_fulfilment_surcharge" has incompatible type "Customer | None"; expected "Customer"  [arg-type]
+megamart.py:217: error: Argument 2 to "round_off_subtotal" has incompatible type "PaymentMethod | None"; expected "PaymentMethod"  [arg-type]
+Found 11 errors in 2 files (checked 1 source file)

@@ -1,0 +1,2 @@
+class FulfilmentException(Exception):
+  pass

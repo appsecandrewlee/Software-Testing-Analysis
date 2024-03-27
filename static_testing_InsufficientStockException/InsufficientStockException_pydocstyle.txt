@@ -1,0 +1,4 @@
+InsufficientStockException.py:1 at module level:
+        D100: Missing docstring in public module
+InsufficientStockException.py:1 in public class `InsufficientStockException`:
+        D101: Missing docstring in public class

@@ -1,0 +1,7 @@
+************* Module megadata
+megadata.py:32:0: C0301: Line too long (159/100) (line-too-long)
+megadata.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+-----------------------------------
+Your code has been rated at 8.57/10
+

@@ -1,0 +1,2 @@
+Customer.py:2:3: E111 indentation is not a multiple of 4
+Customer.py:2:80: E501 line too long (124 > 79 characters)

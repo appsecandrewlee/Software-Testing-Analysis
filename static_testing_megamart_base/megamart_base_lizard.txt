@@ -1,0 +1,29 @@
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+      26      8    126      4      34 scan_item@16-49@megamart_base.py
+      12      2     97      3      15 list_items@52-66@megamart_base.py
+      12      4     66      2      15 link_member_account@69-83@megamart_base.py
+      18      6    106      1      24 remove_transaction_line@86-109@megamart_base.py
+      22      8    128      0      29 select_fulfilment_type@112-140@megamart_base.py
+      22      8    128      0      29 select_payment_method@143-171@megamart_base.py
+      23      8    146      1      32 tender_variable_payment@174-205@megamart_base.py
+      11      5     78      1      14 tender_exact_payment@208-221@megamart_base.py
+      33      3    181      3      45 generate_receipt@224-268@megamart_base.py
+     100     25    602      8     136 terminal@271-406@megamart_base.py
+1 file analyzed.
+==============================================================
+NLOC    Avg.NLOC  AvgCCN  Avg.token  function_cnt    file
+--------------------------------------------------------------
+    290      27.9     7.7      165.8        10     megamart_base.py
+
+===========================================================================================================
+!!!! Warnings (cyclomatic_complexity > 15 or length > 1000 or nloc > 1000000 or parameter_count > 100) !!!!
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+     100     25    602      8     136 terminal@271-406@megamart_base.py
+==========================================================================================
+Total nloc   Avg.NLOC  AvgCCN  Avg.token   Fun Cnt  Warning cnt   Fun Rt   nloc Rt
+------------------------------------------------------------------------------------------
+       290      27.9     7.7      165.8       10            1      0.10    0.36

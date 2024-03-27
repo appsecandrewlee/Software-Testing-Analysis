@@ -1,0 +1,14 @@
+************* Module Discount
+Discount.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Discount.py:6:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Discount.py:7:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Discount.py:8:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Discount.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Discount.py:1:0: C0103: Module name "Discount" doesn't conform to snake_case naming style (invalid-name)
+Discount.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+Discount.py:5:21: W0622: Redefining built-in 'type' (redefined-builtin)
+Discount.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

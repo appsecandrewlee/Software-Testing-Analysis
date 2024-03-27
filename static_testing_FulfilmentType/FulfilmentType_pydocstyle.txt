@@ -1,0 +1,4 @@
+FulfilmentType.py:1 at module level:
+        D100: Missing docstring in public module
+FulfilmentType.py:4 in public class `FulfilmentType`:
+        D101: Missing docstring in public class

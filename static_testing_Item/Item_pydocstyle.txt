@@ -1,0 +1,6 @@
+Item.py:1 at module level:
+        D100: Missing docstring in public module
+Item.py:4 in public class `Item`:
+        D101: Missing docstring in public class
+Item.py:5 in public method `__init__`:
+        D107: Missing docstring in __init__

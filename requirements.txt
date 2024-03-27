@@ -1,0 +1,8 @@
+pycodestyle
+pydocstyle
+pylint
+flake8
+mypy
+pytest
+pytest-cov
+coverage

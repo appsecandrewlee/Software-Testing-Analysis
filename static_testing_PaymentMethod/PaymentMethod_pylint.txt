@@ -1,0 +1,11 @@
+************* Module PaymentMethod
+PaymentMethod.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+PaymentMethod.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+PaymentMethod.py:7:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+PaymentMethod.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+PaymentMethod.py:1:0: C0103: Module name "PaymentMethod" doesn't conform to snake_case naming style (invalid-name)
+PaymentMethod.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

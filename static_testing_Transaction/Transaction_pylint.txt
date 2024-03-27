@@ -1,0 +1,28 @@
+************* Module Transaction
+Transaction.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:11:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+Transaction.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:19:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:20:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:23:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:25:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:27:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+Transaction.py:28:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Transaction.py:29:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+Transaction.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Transaction.py:1:0: C0103: Module name "Transaction" doesn't conform to snake_case naming style (invalid-name)
+Transaction.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+Transaction.py:8:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.42/10
+

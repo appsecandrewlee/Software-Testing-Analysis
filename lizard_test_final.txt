@@ -1,0 +1,127 @@
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+       3      1     27      3       3 __init__@27-29@testing_analysis/Transaction.py
+       3      1     27      3       3 __init__@7-9@testing_analysis/TransactionLine.py
+       5      2     37      1       6 _get_eighteenth_birthday@22-27@testing_analysis/megamart.py
+      27     10    131      3      35 is_not_allowed_to_purchase_item@29-63@testing_analysis/megamart.py
+      10      4     63      5      12 get_item_purchase_quantity_limit@65-76@testing_analysis/megamart.py
+      13      8    100      6      16 is_item_sufficiently_stocked@78-93@testing_analysis/megamart.py
+      26     10    143      3      32 calculate_final_item_price@95-126@testing_analysis/megamart.py
+       9      4     55      2      10 calculate_item_savings@128-137@testing_analysis/megamart.py
+      16      6     77      2      21 calculate_fulfilment_surcharge@139-159@testing_analysis/megamart.py
+      14      4     67      2      18 round_off_subtotal@161-178@testing_analysis/megamart.py
+      36     10    302      7      45 checkout@180-224@testing_analysis/megamart.py
+       4      1     38      4       4 __init__@5-8@testing_analysis/Discount.py
+       6      1     60      6       6 __init__@2-7@testing_analysis/Customer.py
+      26      8    126      4      34 scan_item@16-49@testing_analysis/megamart_base.py
+      12      2     97      3      15 list_items@52-66@testing_analysis/megamart_base.py
+      12      4     66      2      15 link_member_account@69-83@testing_analysis/megamart_base.py
+      18      6    106      1      24 remove_transaction_line@86-109@testing_analysis/megamart_base.py
+      22      8    128      0      29 select_fulfilment_type@112-140@testing_analysis/megamart_base.py
+      22      8    128      0      29 select_payment_method@143-171@testing_analysis/megamart_base.py
+      23      8    146      1      32 tender_variable_payment@174-205@testing_analysis/megamart_base.py
+      11      5     78      1      14 tender_exact_payment@208-221@testing_analysis/megamart_base.py
+      33      3    181      3      45 generate_receipt@224-268@testing_analysis/megamart_base.py
+     100     25    602      8     136 terminal@271-406@testing_analysis/megamart_base.py
+      14      1    111      1      20 test_checkout_public_sample@13-32@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_underage_restricted@38-44@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_underageleap_restricted@46-52@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_underage_restricted_case@54-60@testing_analysis/test_megamart.py
+       7      1     69      1       7 test_allowed_underage_restricted_multicategory@62-68@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_adult_noid_restricted@70-76@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_nodate_restricted@78-84@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_adult_id_restricted@86-92@testing_analysis/test_megamart.py
+       7      1     61      1       7 test_allowed_underage_unrestricted@94-100@testing_analysis/test_megamart.py
+       6      1     49      1       6 test_allowed_noitem_exception@102-107@testing_analysis/test_megamart.py
+       7      1     65      1       7 test_allowed_invalidpurchdate_exception@109-115@testing_analysis/test_megamart.py
+       7      1     65      1       7 test_allowed_invalidDOB_exception@117-123@testing_analysis/test_megamart.py
+       7      1     81      1       7 test_qtylimit_haslimit@127-133@testing_analysis/test_megamart.py
+       6      1     75      1       6 test_qtylimit_nolimit_indict@135-140@testing_analysis/test_megamart.py
+       7      1     91      1       7 test_qtylimit_nolimit_notindict@142-148@testing_analysis/test_megamart.py
+       6      1     57      1       6 test_qtylimit_noitem_exception@150-155@testing_analysis/test_megamart.py
+       5      1     46      1       5 test_qtylimit_nodict_exception@157-161@testing_analysis/test_megamart.py
+       8      1     84      1       8 test_stocked_sufficient@165-172@testing_analysis/test_megamart.py
+       8      1     84      1       8 test_stocked_insufficient@174-181@testing_analysis/test_megamart.py
+       6      1     54      1       6 test_stocked_notindict@183-188@testing_analysis/test_megamart.py
+       8      1     88      1       8 test_stocked_noitem_exception@190-197@testing_analysis/test_megamart.py
+       7      1     85      1       7 test_stocked_noqty_exception@199-205@testing_analysis/test_megamart.py
+       6      1     49      1       6 test_stocked_nodict_exception@207-212@testing_analysis/test_megamart.py
+       7      1     85      1       7 test_stocked_invalidqty_exception@214-220@testing_analysis/test_megamart.py
+       7      1     86      1       7 test_stocked_invalidstock_exception@222-228@testing_analysis/test_megamart.py
+       5      1     62      1       5 test_itemprice_pctdiscount@232-236@testing_analysis/test_megamart.py
+       5      1     62      1       5 test_itemprice_flatdiscount@238-242@testing_analysis/test_megamart.py
+       6      1     79      1       6 test_itemprice_nodiscount@244-249@testing_analysis/test_megamart.py
+       5      1     46      1       5 test_itemprice_nodict_exception@251-255@testing_analysis/test_megamart.py
+       5      1     46      1       5 test_itemprice_noitem_exception@257-261@testing_analysis/test_megamart.py
+       5      1     61      1       5 test_itemprice_highpctdiscount_exception@263-267@testing_analysis/test_megamart.py
+       5      1     61      1       5 test_itemprice_lowpctdiscount_exception@269-273@testing_analysis/test_megamart.py
+       5      1     62      1       5 test_itemprice_highflatdiscount_exception@275-279@testing_analysis/test_megamart.py
+       5      1     59      1       5 test_itemprice_negflatdiscount_exception@281-285@testing_analysis/test_megamart.py
+       5      1     36      1       5 test_savings_valid@289-293@testing_analysis/test_megamart.py
+       5      1     33      1       5 test_savings_nooriginal_exception@295-299@testing_analysis/test_megamart.py
+       5      1     33      1       5 test_savings_nofinal_exception@301-305@testing_analysis/test_megamart.py
+       5      1     35      1       5 test_savings_pricegreater_exception@307-311@testing_analysis/test_megamart.py
+       6      1     47      1       6 test_fulfilment_deliver_low@315-320@testing_analysis/test_megamart.py
+       6      1     47      1       6 test_fulfilment_deliver_boundary@322-327@testing_analysis/test_megamart.py
+       6      1     51      1       6 test_fulfilment_deliver_high@329-334@testing_analysis/test_megamart.py
+       6      1     47      1       6 test_fulfilment_pickup@336-341@testing_analysis/test_megamart.py
+       6      1     41      1       6 test_fulfilment_notype_exception@343-348@testing_analysis/test_megamart.py
+       6      1     43      1       6 test_fulfilment_nodistance_exception@350-355@testing_analysis/test_megamart.py
+       5      1     34      1       5 test_roundsubtotal_credit@359-363@testing_analysis/test_megamart.py
+       5      1     34      1       5 test_roundsubtotal_debit@365-369@testing_analysis/test_megamart.py
+       9      2     68      1       9 test_roundsubtotal_cash_0down@371-379@testing_analysis/test_megamart.py
+       9      2     68      1       9 test_roundsubtotal_cash_0up@381-389@testing_analysis/test_megamart.py
+       9      2     68      1       9 test_roundsubtotal_cash_5down@391-399@testing_analysis/test_megamart.py
+       9      2     68      1       9 test_roundsubtotal_cash_5up@401-409@testing_analysis/test_megamart.py
+       5      1     33      1       5 test_roundsubtotal_nosubtotal_exception@411-415@testing_analysis/test_megamart.py
+       5      1     33      1       5 test_roundsubtotal_nomethod_exception@417-421@testing_analysis/test_megamart.py
+      12      1    116      1      13 test_checkout_basic@425-437@testing_analysis/test_megamart.py
+      26      2    257      1      28 test_checkout_advanced@439-466@testing_analysis/test_megamart.py
+      11      1    110      1      12 test_checkout_agerestrict_exception@468-479@testing_analysis/test_megamart.py
+      11      1    110      1      12 test_checkout_stock_exception@481-492@testing_analysis/test_megamart.py
+      11      1    110      1      12 test_checkout_limit_exception@494-505@testing_analysis/test_megamart.py
+      12      1    130      1      13 test_checkout_flatdiscount@507-519@testing_analysis/test_megamart.py
+      12      1    128      1      13 test_checkout_pctdiscount@521-533@testing_analysis/test_megamart.py
+      12      1    114      1      13 test_checkout_delivery@535-547@testing_analysis/test_megamart.py
+      14      1    134      1      15 test_checkout_rounding@549-563@testing_analysis/test_megamart.py
+       7      1     63      1       8 test_checkout_notransaction_exception@565-572@testing_analysis/test_megamart.py
+      11      1    102      1      12 test_checkout_noitemsdict_exception@574-585@testing_analysis/test_megamart.py
+      11      1    111      1      12 test_checkout_nodiscountdict_exception@587-598@testing_analysis/test_megamart.py
+      15      1    204      1      15 test_checkout_example1@600-614@testing_analysis/test_megamart.py
+      14      1    206      1      14 test_checkout_example2@617-630@testing_analysis/test_megamart.py
+      12      1    188      1      12 test_checkout_example3@632-643@testing_analysis/test_megamart.py
+      12      1    188      1      12 test_checkout_example4@645-656@testing_analysis/test_megamart.py
+       5      1     55      5       5 __init__@5-9@testing_analysis/Item.py
+17 file analyzed.
+==============================================================
+NLOC    Avg.NLOC  AvgCCN  Avg.token  function_cnt    file
+--------------------------------------------------------------
+      2       0.0     0.0        0.0         0     testing_analysis/PurchaseLimitExceededException.py
+      2       0.0     0.0        0.0         0     testing_analysis/FulfilmentException.py
+     24       3.0     1.0       27.0         1     testing_analysis/Transaction.py
+      7       3.0     1.0       27.0         1     testing_analysis/TransactionLine.py
+      4       0.0     0.0        0.0         0     testing_analysis/FulfilmentType.py
+     45       0.0     0.0        0.0         0     testing_analysis/megadata.py
+    172      17.3     6.4      108.3         9     testing_analysis/megamart.py
+      5       0.0     0.0        0.0         0     testing_analysis/PaymentMethod.py
+      6       4.0     1.0       38.0         1     testing_analysis/Discount.py
+      7       6.0     1.0       60.0         1     testing_analysis/Customer.py
+    290      27.9     7.7      165.8        10     testing_analysis/megamart_base.py
+    548       7.9     1.1       79.1        68     testing_analysis/test_megamart.py
+      2       0.0     0.0        0.0         0     testing_analysis/InsufficientFundsException.py
+      4       0.0     0.0        0.0         0     testing_analysis/main.py
+      4       0.0     0.0        0.0         0     testing_analysis/DiscountType.py
+      2       0.0     0.0        0.0         0     testing_analysis/InsufficientStockException.py
+      7       5.0     1.0       55.0         1     testing_analysis/Item.py
+
+===========================================================================================================
+!!!! Warnings (cyclomatic_complexity > 15 or length > 1000 or nloc > 1000000 or parameter_count > 100) !!!!
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+     100     25    602      8     136 terminal@271-406@testing_analysis/megamart_base.py
+==========================================================================================
+Total nloc   Avg.NLOC  AvgCCN  Avg.token   Fun Cnt  Warning cnt   Fun Rt   nloc Rt
+------------------------------------------------------------------------------------------
+      1131      10.8     2.3       89.3       92            1      0.01    0.10
